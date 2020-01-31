@@ -4,3 +4,4 @@ This is the [Unreal Engine Developer]( http://gdev.tv/urcgithub) course – it s
 
 ## Lecture List
 * BT 01 Intro, Notes and Assets 
+* BT 02  Game Dewsign document DGG 
